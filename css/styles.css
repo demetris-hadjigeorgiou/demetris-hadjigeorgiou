@@ -13,6 +13,15 @@ body {
   overflow-x: hidden;
 }
 
+.img-circle{
+  border-radius: 50%;
+  max-width: 15vw;
+}
+
+.footer{
+  text-align: center;
+}
+
 .navbar {
   background-color: #FFFFFF; /* White */
   position: fixed; /* Set the navbar to fixed position */
